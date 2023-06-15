@@ -1,0 +1,6 @@
+NLP END to END Project Codes
+
+TO push code or commit to GIT using gitbash using following steps
+git add .
+git commit -m "Message"
+git push origin main
